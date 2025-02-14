@@ -291,3 +291,4 @@ if __name__ == "__main__":
     a8_credit_card_image()
     a9_comments()
     a10_ticket_sales()
+config["root"] = os.path.expanduser("~/data")
